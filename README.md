@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamze0309
+- 👋 Hi, I’m Gamze
 - 👀 I’m interested in React
 - 🌱 I’m currently learning Jest and React Testing Library
 - 📫 How to reach me: gamzeipek06@gmail.com
